@@ -1,3 +1,3 @@
 Demo
 =========
-http://awo19.app.activewizards.com/
+https://awo19.activewizards-demos.com/
